@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Office for Promotion of Regional Revitalization, Cabinet Office of Japan is a governmental agency tasked with formulating and implementing policies to revitalize regional economies across Japan. It coordinates with local governments, businesses, and community groups to promote sustainable development, attract investment, and address demographic challenges. The office publishes data, guidelines, and support programs aimed at enhancing regional competitiveness and quality of life.
+The Office for Promotion of Regional Revitalization, part of Japan's Cabinet Office, is a governmental body tasked with formulating and implementing policies to stimulate economic activity, improve infrastructure, and support community development in regional areas across Japan. It coordinates with local authorities, businesses, and stakeholders to design revitalization projects, provide financial assistance, and promote sustainable growth, aiming to address challenges such as population decline and regional disparities.
 
-**Areas:** Government · Regional Development · Japan · Economic Policy · Community Support · Company
+**Areas:** Company · Government · Japan · RegionalRevitalization · CabinetOffice
 
 ## Office for Promotion of Regional Revitalization, Cabinet Office of Japan on APIs.io
 
@@ -82,54 +82,11 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [Office For Promotion Of Regional Revitalization Cabinet Office Of Japan Domain Security](https://apis.io/security/office-for-promotion-of-regional-revitalization-cabinet-office-of-japan/office-for-promotion-of-regional-revitalization-cabinet-office-of-japan-domain-security/)
 
-## Where to find this API
-
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
-
-- [Website](https://www.kantei.go.jp/jp/singi/sousei/index.html)
-
 ## API Evangelist rating
 
-**Kin Score 3.4** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 5.9** — Government & Public Sector
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/office-for-promotion-of-regional-revitalization-cabinet-office-of-japan/](https://apis.io/providers/office-for-promotion-of-regional-revitalization-cabinet-office-of-japan/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
